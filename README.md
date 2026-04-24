@@ -20,7 +20,7 @@
 ---
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently working as a **Full Stack Developer managing the production system at NovasEz**
+- 🔭 I’m currently working as a Full Stack Developer managing the production system at NovasEz
 - 🧩 Tech stack: **C#, HTML, T-SQL, CSS, JavaScript, AutoIt**
 - 🌱 Focused on: **clean architecture, performance optimization, and maintainability**
 - 📫 Email: thanhphan11112003@gmail.com
