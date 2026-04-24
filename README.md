@@ -4,7 +4,7 @@
      Role: Full Stack Developer – Production Manager at NovasEz
 ========================= -->
 
-<h1 align="center">Hi 👋, I'm Thanh</h1>
+<h1 align="center">Hi , I'm Thanh</h1>
 <h3 align="center">💻 Full Stack Developer | Production System Manager at NovasEz</h3>
 
 <p align="center">
@@ -24,7 +24,7 @@
 - 🧩 Tech stack: **C#, HTML, T-SQL, CSS, JavaScript, AutoIt**
 - 🌱 Focused on: **clean architecture, performance optimization, and maintainability**
 - 📫 Email: thanhphan11112003@gmail.com
-- 🌐 Facebook: **https://facebook.com/pht.2003
+- 🌐 Facebook: https://facebook.com/pht.2003
 
 ---
 
