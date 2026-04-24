@@ -1,11 +1,11 @@
 <!-- =========================
      GitHub Profile README
      User: phtthanh203
-     Focus: C#, HTML, T-SQL, CSS, JavaScript, AutoIt
+     Role: Full Stack Developer – Production Manager at NovasEz
 ========================= -->
 
-<h1 align="center">Hi 👋, mình là Thanh</h1>
-<h3 align="center">💻 C# Developer | Web & Database Solutions</h3>
+<h1 align="center">Hi 👋, I'm Thanh</h1>
+<h3 align="center">💻 Full Stack Developer | Production System Manager at NovasEz</h3>
 
 <p align="center">
   <a href="https://github.com/phtthanh203">
@@ -14,21 +14,21 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=C%23+%7C+HTML+%7C+T-SQL+%7C+CSS+%7C+JavaScript+%7C+AutoIt;Building+practical+software+for+real-world+operations;Simple+%E2%80%A2+Stable+%E2%80%A2+Scalable" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Development+%7C+Production+Systems+%7C+C%23%2C+HTML%2C+T-SQL%2C+CSS%2C+JavaScript%2C+AutoIt;Delivering+reliable%2C+scalable+solutions+for+real-world+operations;Simple+%E2%80%A2+Stable+%E2%80%A2+Scalable" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🙋‍♂️ Giới thiệu
-- 🔭 Mình tập trung vào: **C# applications, web interfaces, SQL systems, automation scripts**
-- 🧩 Chuyên môn chính: **C#, HTML, T-SQL, CSS, JavaScript, AutoIt**
-- 🌱 Định hướng: **clean architecture, performance optimization, maintainability**
+## 🙋‍♂️ About Me
+- 🔭 I’m currently working as a **Full Stack Developer managing the production system at NovasEz**
+- 🧩 Tech stack: **C#, HTML, T-SQL, CSS, JavaScript, AutoIt**
+- 🌱 Focused on: **clean architecture, performance optimization, and maintainability**
 - 📫 Email: **your-email@gmail.com**
 - 🌐 Facebook: **https://facebook.com/your-link**
 
 ---
 
-## 🔗 Kết nối
+## 🔗 Connect with Me
 <p align="left">
   <a href="https://github.com/phtthanh203" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
@@ -43,9 +43,9 @@
 
 ---
 
-## 🧰 Công nghệ chuyên môn (theo repo thực tế)
+## 🧰 Tech Stack
 
-### 👨‍💻 Core Languages
+### 👨‍💻 Main Languages
 <p>
   <img src="https://img.shields.io/badge/C%23-39.1%25-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-38.1%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/AutoIt-1.1%25-5C2D91?style=for-the-badge" />
 </p>
 
-### ⚙️ Tools & Platform
+### ⚙️ Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
@@ -70,12 +70,13 @@
 ---
 
 ## 📌 Tech Focus Breakdown
-- **C# (39.1%)**: business logic, backend modules, integration  
-- **HTML (38.1%)**: web UI structure, admin/dashboard pages  
-- **T-SQL (16.2%)**: stored procedures, query optimization, data workflows  
-- **CSS (3.1%)**: layout & responsive UI  
-- **JavaScript (2.1%)**: client-side interactions  
-- **AutoIt (1.1%)**: operation automation scripts
+
+- **C# (39.1%)**: Business logic, backend modules, systems integration  
+- **HTML (38.1%)**: UI structure for internal dashboards & web interfaces  
+- **T-SQL (16.2%)**: Stored procedures, data management, and optimization  
+- **CSS (3.1%)**: Modern responsive UI  
+- **JavaScript (2.1%)**: Client-side interactivity  
+- **AutoIt (1.1%)**: Production automation scripts
 
 ---
 
@@ -91,7 +92,7 @@
 
 ---
 
-## 📈 Biểu đồ hoạt động trong năm
+## 📈 Contribution Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=phtthanh203&theme=react-dark&hide_border=true&area=true" />
 </p>
