@@ -23,8 +23,8 @@
 - 🔭 I’m currently working as a **Full Stack Developer managing the production system at NovasEz**
 - 🧩 Tech stack: **C#, HTML, T-SQL, CSS, JavaScript, AutoIt**
 - 🌱 Focused on: **clean architecture, performance optimization, and maintainability**
-- 📫 Email: **your-email@gmail.com**
-- 🌐 Facebook: **https://facebook.com/your-link**
+- 📫 Email: thanhphan11112003@gmail.com
+- 🌐 Facebook: **https://facebook.com/pht.2003
 
 ---
 
