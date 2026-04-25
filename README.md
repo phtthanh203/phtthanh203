@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+%7C+Production+Systems+%7C+C%23%2C+HTML%2C+T-SQL%2C+CSS%2C+JavaScript%2C+AutoIt;Delivering+reliable%2C+scalable+solutions+for+real-world+operations;Simple+%E2%80%A2+Stable+%E2%80%A2+Scalable" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Development+%7C+Production+Systems+%7C+C%23%2C+HTML%2C+T-SQL%2C+CSS%2C+JavaScript%2C+AutoIt;Delivering+reliable%2C+scalable+solutions+for+real-world+operations;Simple+%E2%80%A2+Stable+%E2%80%A2+Scalable" alt="Typing SVG" />
 </p>
 
 ---
